@@ -7,3 +7,10 @@ $ pip install RPi
 ```
 
 For wiring and more information about the RaspberryPI please read the documentation.
+
+# Running
+The program can be run with:
+```
+$ python3 ReadGCode.py <file_with_GCode>
+```
+
